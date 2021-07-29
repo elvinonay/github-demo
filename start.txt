@@ -1,0 +1,16 @@
+Test Git Quick Start Demo:
+start.txt
+
+
+clear
+
+
+
+
+
+sdadsadadsaa
+
+echo Test Git Quick Start demo
+Test Git Quick Start demo >> start.txt
+
+echo Test Git Quick Start demo
